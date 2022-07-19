@@ -1,4 +1,3 @@
 - 👋 Hi, I’m José Rosário
 - 👀 I’m interested in Travelling, Cooking, Coding
-- 🌱 I’m currently learning Python
 - 📫 How to reach me: joserosario15@outlook.com
